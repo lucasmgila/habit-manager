@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Hábitos é um aplicativo para gerenciar os hábitos do seu dia a dia.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://lucasmgila.github.io/habit-manager/)
 
 ## 🔖 Layout
 
